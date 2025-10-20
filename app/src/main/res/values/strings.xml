@@ -102,7 +102,6 @@
     <string name="user_terminal_id">terminal_id</string>
     <string name="user_vkn_tckn">vkn_tckn</string>
     <string name="user_uye_isyeri_no">uye_isyeri_no</string>
-    <string name="user_password">password</string>
     <string name="user_full_name">full_name</string>
     <string name="user_date">date</string>
     <string name="user_time">time</string>
@@ -120,4 +119,5 @@
     <string name="user_admin">admin</string>
     <string name="user_remember_me_manager">remember_me_manager</string>
     <string name="user_remember_me_terminal">remember_me_terminal</string>
+    <string name="user_password">Password</string>
 </resources>
