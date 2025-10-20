@@ -335,6 +335,7 @@
                     android:layout_gravity="center"
                     android:layout_marginTop="24dp">
 
+
                     <Button
                         android:id="@+id/buttonCancel"
                         style="?attr/materialButtonOutlinedStyle"
@@ -349,7 +350,6 @@
                         android:textSize="18sp"
                         app:rippleColor="@color/white" />
 
-
                     <Button
                         android:id="@+id/buttonContinue"
                         style="?attr/materialButtonOutlinedStyle"
@@ -358,7 +358,7 @@
                         android:layout_marginStart="20dp"
                         android:layout_weight="1"
                         android:backgroundTint="@color/background"
-                        android:text="Devam Et"
+                        android:text="@string/continue_payment"
                         android:textColor="@color/white"
                         android:textSize="18sp"
                         app:rippleColor="@color/white" />
