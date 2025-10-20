@@ -98,11 +98,10 @@
     <string name="category_id_or_product_id">category_id_or_product_id</string>
     <string name="products_category_id">productsCategoryId</string>
     <string name="no_authorization">Yetkiniz yok.</string>
-
     <string name="user_terminal_id">terminal_id</string>
     <string name="user_vkn_tckn">vkn_tckn</string>
     <string name="user_uye_isyeri_no">uye_isyeri_no</string>
-    <string name="user_password">password</string>
+    <string name="user_password">Password</string>
     <string name="user_full_name">full_name</string>
     <string name="user_date">date</string>
     <string name="user_time">time</string>
