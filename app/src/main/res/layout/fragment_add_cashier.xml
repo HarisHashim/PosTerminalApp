@@ -78,7 +78,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:hint="Parola"
+                android:hint="@string/password"
                 android:textColorHint="#B6B5B5"
                 app:endIconMode="password_toggle"
                 app:endIconTint="#575656"
