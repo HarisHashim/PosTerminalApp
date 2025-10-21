@@ -121,4 +121,6 @@
     <string name="user_admin">admin</string>
     <string name="user_remember_me_manager">remember_me_manager</string>
     <string name="continue_payment">Continue</string>
+    <string name="main_title_category">Category</string>
+    <string name="main_title_cart">Cart</string>
 </resources>

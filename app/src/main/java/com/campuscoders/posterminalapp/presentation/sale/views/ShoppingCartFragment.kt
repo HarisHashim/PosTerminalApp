@@ -73,7 +73,7 @@ class ShoppingCartFragment : Fragment() {
 
         saleActivity = (activity as SaleActivity)
         saleActivity.setEnabledShoppingCartIcon(false)
-        saleActivity.changeSaleActivityTopBarTitle("Sepet")
+        saleActivity.changeSaleActivityTopBarTitle(getString(R.string.main_title_cart))
 
         shoppingCartAdapter.setOnRemoveClickListener {productName, productId ->
             val oldShoppingCartList = baseViewModel.statusShoppingCartList.value

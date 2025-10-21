@@ -121,4 +121,6 @@
     <string name="user_remember_me_manager">remember_me_manager</string>
     <string name="user_remember_me_terminal">remember_me_terminal</string>
     <string name="continue_payment">Devam Et</string>
+    <string name="main_title_category">Kategoriler</string>
+    <string name="main_title_cart">Sepet</string>
 </resources>
