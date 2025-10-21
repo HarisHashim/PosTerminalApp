@@ -17,7 +17,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:title="Kategoriler">
+            app:title="@string/main_title_category">
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/materialCardViewShoppingCart"
