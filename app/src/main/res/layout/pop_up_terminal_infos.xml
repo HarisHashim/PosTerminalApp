@@ -26,7 +26,7 @@
                 android:gravity="center"
                 android:text="Terminal Bilgileri"
                 android:textColor="@color/white"
-                android:textSize="16sp"
+                android:textSize="12sp"
                 android:textStyle="bold" />
 
         </LinearLayout>
@@ -47,7 +47,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Terminal No:"
+                    android:text="Terminal No"
+                    android:textColor="@color/background"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="12sp"
                     android:textStyle="bold" />
@@ -72,7 +80,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Üye İşyeri No:"
+                    android:text="@string/uye_isyeri_no"
+                    android:textColor="@color/background"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="12sp"
                     android:textStyle="bold" />
@@ -97,7 +113,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Seri No:"
+                    android:text="Seri No"
+                    android:textColor="@color/background"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="12sp"
                     android:textStyle="bold" />
@@ -122,7 +146,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Uygulama Version No:"
+                    android:text="Uygulama Version No"
+                    android:textColor="@color/background"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="12sp"
                     android:textStyle="bold" />
@@ -147,7 +179,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Müşteri Hesabı Vers:"
+                    android:text="Müşteri Hesabı Vers"
+                    android:textColor="@color/background"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="12sp"
                     android:textStyle="bold" />
@@ -172,7 +212,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Parametre Vers:"
+                    android:text="Parametre Vers"
+                    android:textColor="@color/background"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="12sp"
                     android:textStyle="bold" />
@@ -197,7 +245,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Android Vers:"
+                    android:text="Android Vers"
+                    android:textColor="@color/background"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="12sp"
                     android:textStyle="bold" />

@@ -135,7 +135,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
-            android:hint="Üye İşyeri No"
+            android:hint="@string/uye_isyeri_no"
             android:textColorHint="#B6B5B5"
             app:boxStrokeColor="@color/background"
             app:counterMaxLength="11"
