@@ -41,7 +41,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Üye İşyeri No:"
+                    android:text="@string/uye_isyeri_no"
+                    android:textColor="@color/background"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="16sp"
                     android:textStyle="bold" />
@@ -66,7 +74,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Terminal No:"
+                    android:text="Terminal No"
+                    android:textColor="@color/background"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="16sp"
                     android:textStyle="bold" />
@@ -91,7 +107,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="ETTN:"
+                    android:text="ETTN"
+                    android:textColor="@color/background"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="16sp"
                     android:textStyle="bold" />
@@ -116,7 +140,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Belge No:"
+                    android:text="Belge No"
+                    android:textColor="@color/background"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="16sp"
                     android:textStyle="bold" />
@@ -141,7 +173,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Doküman Tipi:"
+                    android:text="Doküman Tipi"
+                    android:textColor="@color/background"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="16sp"
                     android:textStyle="bold" />
@@ -166,7 +206,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Mali ID:"
+                    android:text="Mali ID"
+                    android:textColor="@color/background"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="16sp"
                     android:textStyle="bold" />
@@ -191,7 +239,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Sipariş No:"
+                    android:text="Sipariş No"
+                    android:textColor="@color/background"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="16sp"
                     android:textStyle="bold" />
@@ -216,7 +272,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Fatura Zamanı:"
+                    android:text="Fatura Zamanı"
+                    android:textColor="@color/background"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="16sp"
                     android:textStyle="bold" />
@@ -241,7 +305,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Fatura Tarihi:"
+                    android:text="Fatura Tarihi"
+                    android:textColor="@color/background"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="16sp"
                     android:textStyle="bold" />
@@ -266,7 +338,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Para Brimi:"
+                    android:text="Para Brimi"
+                    android:textColor="@color/background"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="16sp"
                     android:textStyle="bold" />
@@ -291,7 +371,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Toplam Vergi:"
+                    android:text="Toplam Vergi"
+                    android:textColor="@color/background"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="16sp"
                     android:textStyle="bold" />
@@ -316,7 +404,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Toplam Tutar:"
+                    android:text="Toplam Tutar"
+                    android:textColor="@color/background"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="16sp"
                     android:textStyle="bold" />
@@ -341,7 +437,15 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Stan:"
+                    android:text="Stan"
+                    android:textColor="@color/background"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="16sp"
                     android:textStyle="bold" />
@@ -367,6 +471,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Ödeme Tipi"
+                    android:textColor="@color/background"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/document_detail_separator"
                     android:textColor="@color/background"
                     android:textSize="16sp"
                     android:textStyle="bold" />
